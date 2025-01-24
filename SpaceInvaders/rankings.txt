@@ -1,0 +1,2 @@
+50 & C:/Users/pedro/AppData/Local/Programs/Python/Python312/python.exe c:/Users/pedro/OneDrive/Documentos/SpaceInvaders/aprimoramento.py 
+50 sopratestar 
